@@ -3,6 +3,22 @@
   width: 300px;
 }
 
+.todo-text {
+  background-color: lightgreen;
+  color: black;
+  font-weight: bold;
+  height: 30px;
+  line-height: 30px;
+  vertical-align: middle;
+  text-align: center;
+  margin-right: 5px;
+}
+
 .completed {
   text-decoration: line-through;
+}
+
+.todolist {
+  /* border: 1px solid black;
+  width: 500px;   */
 }
